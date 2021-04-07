@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+<a href="https://github.com/Chanchal1603/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=hemanth-07-11&style=plastic">
+</a>
