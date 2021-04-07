@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my Undergraduate degree in Computer Science Engg. at Madras Institute of Technology, Anna University.
 - 💻 I’m proficient in C++ and an active competitive coder.
-- 🌐 I'm an aspiring Full Stack Developer - MERN Stack, learning languages and making myself comfortable, trying to be proficient in the frameworks required for the same.
+- 🌐 I'm an aspiring Full Stack Developer - MERN Stack, learning languages and trying to be proficient in the frameworks required for the same.
 
 
 
