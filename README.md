@@ -1,23 +1,16 @@
-### Hi there 👋 I'm Hemanth N ❤
-
-<!--
-**hemanth-07-11/hemanth-07-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 <a href="https://github.com/Chanchal1603/github-visitors-counter">
     <img src="https://komarev.com/ghpvc/?username=hemanth-07-11&style=plastic">
 </a>
+
+### Hi there 👋 I'm Hemanth N ❤
+
+
+- 🔭 I’m currently pursuing my Undergraduate degree in Computer Science Engg. at Madras Institute of Technology, Anna University.
+- 💻 I’m proficient in C++ and an active competitive coder.
+- 🌐 I'm an aspiring Full Stack Developer - MERN Stack, learning languages and frameworks required for the same.
+
+
 
 
 #### My GitHub profile trophy:
@@ -29,3 +22,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/hemanth-07-11">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth-07-11&show_icons=true&hide=issues,contribs" />
 </a>
+
+
+## Contact
+<pre>
+ <a href="mailto:hemanthnov2001@gmail.com">Mail Me</a><br>
+ <a href="https://www.instagram.com/hemanth_07_11_/">Instagram</a><br>
+ <a href="https://www.linkedin.com/in/hemanth-n-2001/">LinkedIn</a><br>
+</pre>
