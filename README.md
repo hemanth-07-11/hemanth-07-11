@@ -27,6 +27,6 @@
 ## Contact
 <pre>
  <a href="mailto:hemanthnov2001@gmail.com">Mail Me</a><br>
- <a href="https://www.instagram.com/hemanth_07_11_/">Instagram</a><br>
+ <a href="">Instagram</a><br>
  <a href="https://www.linkedin.com/in/hemanth-n-2001/">LinkedIn</a><br>
 </pre>
