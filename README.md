@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
-</div>
 
 <a href="https://github.com/hemanth-07-11">
     <img src="https://komarev.com/ghpvc/?username=hemanth-07-11&style=plastic"> &nbsp; &nbsp; 
@@ -23,7 +21,7 @@
 ### My Github Stats
 <a href="https://github.com/hemanth-07-11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanth-07-11&count_private=true&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-07-11&theme=cobalt&hide_border=true&langs_count=10&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-07-11&hide=css&theme=cobalt&hide_border=true&langs_count=9&layout=compact"/>
 </a>
 
 ## Contact
