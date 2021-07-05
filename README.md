@@ -17,15 +17,22 @@
 <h4><b>Frameworks and Languages</b></h4>
 
 ![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![javaScript](https://img.shields.io/badge/JavaScript-47c5fb?style=flat-square&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-2bb7f6?style=flat-square&logo=React&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-47c5fb?style=flat-square&logo=Bash&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-166efa?style=flat-square&logo=Python&logoColor=white)
+![javaScript](https://img.shields.io/badge/JavaScript-f5ea1d?style=flat-square&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-2bb7f6?style=flat-square&logo=React&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-852de3?style=flat-square&logo=React&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-636029?style=flat-square&logo=Bash&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-30beff?style=flat-square&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+
+<h4><b>Databases</b></h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-ffaa00?style=flat-square&logo=mysql&logoColor=Black)
 ![oracle](https://img.shields.io/badge/Oracle-F05032?style=flat-square&logo=Oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
 <h4><b>Tools and Platform</b></h4>
 
@@ -34,6 +41,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=black)
 
 
 #### My GitHub profile trophy:
