@@ -44,9 +44,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=black)
 
 
-#### My GitHub profile trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemanth-07-11)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### My Github Stats
 <a href="https://github.com/hemanth-07-11">
 
