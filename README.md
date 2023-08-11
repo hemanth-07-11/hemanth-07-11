@@ -9,7 +9,7 @@
 ### Hi there 👋 I'm Hemanth N ❤
 
 
-- 🔭 I’m currently pursuing my Undergraduate degree in Computer Science Engg. at Madras Institute of Technology, Anna University.
+- 🔭 I am graduate in Computer Science Engg. from Madras Institute of Technology, Anna University.
 - 💻 I’m proficient in C++ and an active competitive coder.
 - 🌐 I'm an aspiring Full Stack Developer - MERN Stack, learning languages and trying to be proficient in the frameworks required for the same.
 
