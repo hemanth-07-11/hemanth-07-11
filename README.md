@@ -9,9 +9,10 @@
 ### Hi there 👋 I'm Hemanth N ❤
 
 
-- 🔭 I am a graduate in Computer Science Engg. from Madras Institute of Technology, Anna University.
-- 💻 I’m proficient in C++ and an active competitive coder.
-- 🌐 I'm an aspiring Full Stack Developer - MERN Stack, learning languages and trying to be proficient in the frameworks required for the same.
+- 🎓 MS in Computer Science @ University of Maryland, College Park
+- 💻 Ex-Associate Developer @ SAP Labs India
+- 🎯 Actively seeking Summer 2026 Internship opportunities
+- 📚 B.E. in Computer Science from MIT, Anna University
 
 <br>
 <h4><b>Frameworks and Languages</b></h4>
